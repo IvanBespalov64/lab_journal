@@ -6,4 +6,4 @@ permalink: /temp/
 
 ## Hello
 - [ ] 123 
-\eta
+$\eta$
