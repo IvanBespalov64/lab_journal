@@ -4,6 +4,6 @@ title: Список ссылок
 permalink: /
 usemathjax: true
 ---
-# [TO-DO List](/lab_journal/to-do_list/)
+# [TO-DO List](to-do_list/)
 # [Задачи](problems/)
 $\eta$
