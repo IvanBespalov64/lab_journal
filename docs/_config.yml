@@ -24,7 +24,8 @@ markdown: kramdown
 highlighter: rouge
 
 # Build settings
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: jekyll/minima
 plugins:
   - jekyll-feed
   - kramdown
