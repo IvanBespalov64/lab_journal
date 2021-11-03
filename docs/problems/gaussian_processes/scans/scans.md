@@ -2,6 +2,7 @@
 layout: page
 title: Сканы
 permalink: problems/gaussian_processes/scans
+usemathjax: true
 ---
 
 Понял, какой торсионник нужно считать, посчитал для CCCCl.
