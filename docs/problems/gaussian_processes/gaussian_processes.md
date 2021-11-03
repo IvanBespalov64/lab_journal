@@ -4,7 +4,7 @@ title: Gaussian Processes
 permalink: problems/gaussian_processes
 ---
 
-## [Сканы](scans)
+## [Сканы](problems/gaussian_processes/scans)
 
-## [Mean function](mean_func)
+## [Mean function](problems/gaussian_processes/mean_func)
 
