@@ -6,4 +6,3 @@ usemathjax: true
 ---
 # [TO-DO List](to-do_list/)
 # [Задачи](problems/)
-$\eta$
