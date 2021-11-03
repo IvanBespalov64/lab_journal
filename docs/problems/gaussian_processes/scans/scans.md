@@ -9,3 +9,4 @@ permalink: problems/gaussian_processes/scans
 Orca на выходе дает два файла с энергиями(SCF energy & Actual Energy), нам нужен второй
 
 [Аппроксимация](scans/approx)
+
