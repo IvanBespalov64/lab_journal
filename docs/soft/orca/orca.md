@@ -4,4 +4,4 @@ title: Orca
 permalink: /soft/orca
 ---
 
-# [Sbatch example](sbatch_example)
+# [Sbatch example](soft/orca/sbatch_example)
