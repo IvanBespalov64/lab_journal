@@ -4,10 +4,10 @@ title: Задачи
 permalink: /problems/
 usemathjax: true
 ---
-## Аллилирование кетонов
+## [Аллилирование кетонов](ketons_allylation)
 ![Block scheme](ka_bs.png)
 
-### Структуры:
+### [Структуры](ketons_allylation/structs):
 
 - [x] Нарисовать структуры
 - - [x] Разобраться с $\eta_3$
