@@ -7,5 +7,5 @@ permalink: /soft
 ## Программы:
 ### [Orca](soft/orca)
 
-### [Crest](crest)
+### [Crest](soft/crest)
 
