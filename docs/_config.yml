@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: Lab journal
-baseurl: "/lab_journal"
-url: ""
-#url: "https://ivanbespalov64.github.io/lab_journal/"
+#baseurl: "/lab_journal"
+#url: ""
+url: "https://ivanbespalov64.github.io/lab_journal/"
 markdown: kramdown
 highlighter: rouge
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
   - kramdown
