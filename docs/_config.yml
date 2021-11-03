@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: Lab journal
-baseurl: "/lab_journal"
-url: "https://ivanbespalov64.github.io"
+#baseurl: ""
+url: "https://ivanbespalov64.github.io/lab_journal/"
 markdown: kramdown
 highlighter: rouge
 
