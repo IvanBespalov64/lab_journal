@@ -17,7 +17,7 @@ usemathjax: true
 ## [Гауссовы процессы](gaussian_processes)
 ![Block scheme](gp_bs.png)
 
-### [Сканы](scans):
+### [Сканы](problems/gaussian_processes/scans):
 - [x] Посчитать сканы
 - [x] CCCC
 - [x] CCCF
