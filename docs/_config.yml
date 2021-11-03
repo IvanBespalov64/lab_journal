@@ -25,7 +25,7 @@ highlighter: rouge
 
 # Build settings
 #theme: jekyll-theme-minimal
-remote-theme: jekyll/minima
+remote-theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - kramdown
