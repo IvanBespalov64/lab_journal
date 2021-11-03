@@ -14,17 +14,17 @@ usemathjax: true
 - [x] Оптимизировать их
 - [ ] Выполнить конф. поиск
 
-## [Гауссовы процессы](problems/gaussian_processes)
+## [Гауссовы процессы](gaussian_processes)
 ![Block scheme](gp_bs.png)
 
-### [Сканы](problems/gaussian_processes/scans):
+### [Сканы](gaussian_processes/scans):
 - [x] Посчитать сканы
 - [x] CCCC
 - [x] CCCF
 - [x] CCCCl
 - [x] Найти методику аппрокисмации полученных данных
 - [x] Посчитать аппроксимации
-### [Mean function](problems/gaussian_processes/mean_func):
+### [Mean function](gaussian_processes/mean_func):
 - [x] Мономерная для свободного коэффициента
 - [ ] Мономерная для всех коэффициентов
 - [ ] Многомерная для свободного коэффициента
