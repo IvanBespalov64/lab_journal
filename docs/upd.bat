@@ -1,5 +1,5 @@
 echo off
-pass
+cls
 git add .
 git commit -m "updated"
 git push -u origin gh-pages
