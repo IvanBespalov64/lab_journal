@@ -20,9 +20,15 @@
 name: Lab journal
 baseurl: "/lab_journal"
 url: ""
-#url: "https://ivanbespalov64.github.io/lab_journal/"
 markdown: kramdown
 highlighter: rouge
+
+#Header info
+header_pages:
+  - index.md
+  - to-do_list/to-do_list.md
+  - problems/problems.md
+  - soft/soft.md
 
 # Build settings
 theme: minima
